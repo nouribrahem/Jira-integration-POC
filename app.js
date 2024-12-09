@@ -1,6 +1,6 @@
 import { json, text } from 'express';
 import fetch from 'node-fetch';
-const domain = 'https://nourhan15.atlassian.net';
+const domain = '';
 const api = '/rest/api/3/';
 var url = domain + api;
 const username = '';
