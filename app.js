@@ -1,3 +1,10 @@
+//////////////////instructions/////////////////////
+// 1. add your atlassian domain, username, token 
+// 2. change project key, version id, issue key, release name, release id,
+//            project id, role id, issue id, user id, 
+//            status id, issue type id, related work id with your own values
+// 3. uncomment the code you want to run
+
 import { json, text } from 'express';
 import fetch from 'node-fetch';
 const domain = '';
